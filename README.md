@@ -5,9 +5,6 @@ This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedc
 
 Just download as zip, extract somewhere, choose the m3u and icons library.
 
-Instead of using a local m3u, one can configured to use the link for constantly updating m3u on github.
-For the playlist in Hebrew: http://git.io/sGTnZA
-For the playlist in English: http://git.io/XUJzaQ
 
 Issues:
 1. Currently the a local copy of the stations' icons need to be kept.
@@ -15,6 +12,7 @@ Issues:
 3. IPTVSimple doesn't support asx & asp so the mms strams need to be extracted 
    and some of those radio stations are rotating and cutting their stream between few mms.
 4. No epg is available currently.
+5. Linking to the online list doesn't work well currently
 
 
 I'm a bit new to git and vcs but I'm always happy to get PR's,
