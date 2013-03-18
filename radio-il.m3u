@@ -13,9 +13,6 @@ mms://213.8.143.171/100fm
 #EXTINF:-1 tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem" group-title="רדיו", רדיו: 101fm רדיו ירושלים
 mms://212.150.243.29/101fm
 
-#EXTINF:-1 tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat" group-title="רדיו", רדיו: 102fm קול הים האדום אילת
-http://212.143.231.15:8000/listen.pls
-
 #EXTINF:-1 tvg-id="radio-102fm-tel_aviv" tvg-name="radio-102fm-tel_aviv" tvg-logo="radio-102fm-tel_aviv" group-title="רדיו", רדיו: 102fm רדיו תל אביב
 rtmp://fms3.mediacast.co.il/liveradio playpath=102.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2779204686896638 pageUrl=http://face.mediacast.co.il/102fm/audio/
 
