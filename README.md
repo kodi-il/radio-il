@@ -1,4 +1,4 @@
-ILRadio: A M3U Playlist for Israeli Radio Stations
+Radio-IL: A M3U Playlist for Israeli Radio Stations
 ---------------------------------------------------
 
 This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin.
