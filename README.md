@@ -7,12 +7,12 @@ Just download as zip, extract somewhere, choose the m3u and icons library.
 
 
 Issues:  
-1. Currently the a local copy of the stations' icons need to be kept.  
+1. Currently a local copy of the stations' icons need to be kept.  
 2. IPTVSimple doesn't support radio stations so these appears as tv channels.  
 3. IPTVSimple doesn't support asx & asp so the mms strams need to be extracted  
    and some of those radio stations are rotating and cutting their stream between few mms.  
 4. No epg is available currently.  
-5. Linking to the online list doesn't work well currently.  
+5. Online list won't update over https only over http (GitHub links are unusable).  
 
 
 I'm a bit new to git and vcs but I'm always happy to get PR's,  
