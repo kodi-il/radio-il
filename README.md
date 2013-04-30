@@ -14,7 +14,7 @@ Issues:
 4. No epg is available currently.  
 5. Online list won't update over https only over http (GitHub links are unusable).  
 
-To Do:
+To Do:  
 1. Updating the logos, larger logos and better quality, logos with transparent background and with white background.  
 2. Adding all iba radio stations.  
 
