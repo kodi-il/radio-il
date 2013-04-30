@@ -1,9 +1,11 @@
 Radio-IL: A M3U Playlist for Israeli Radio Stations
 ---------------------------------------------------
 
-This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin but will work with any player which support m3u playlist.
+This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin but will work with any player which support m3u playlist.  
 
-Just download as zip, extract somewhere, choose the m3u and the logos library.
+
+Installation instructions:   
+Click on the "ZIP" button to download as zip, extract somewhere, on IPTVSimple configuration choose the m3u and the logos library.
 
 
 Issues:  
