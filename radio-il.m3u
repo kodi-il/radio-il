@@ -1,5 +1,6 @@
 #EXTM3U
 # live updating link to the m3u @ http://git.io/sGTnZA
+# if one of more of these are outdated please report @ https://github.com/dhead666/radio-il
 
 #EXTINF:-1 tvg-id="radio-88fm"	tvg-name="radio-88fm" tvg-logo="radio-88fm" group-title="רדיו" radio="true", 88fm
 mms://s4awm.castup.net/990310006-52.wmv
