@@ -18,7 +18,6 @@ Issues:
 
 To Do:  
 1. Updating the logos, larger logos and better quality, logos with transparent background and with white background.  
-2. Adding all iba radio stations.  
 
 I'm a bit new to git and vcs but I'm always happy to get PR's,  
 logos and new stations' stream url are welcome.  
