@@ -23,6 +23,9 @@ rtmp://fms3.mediacast.co.il/liveradio playpath=102.stream swfUrl=http://radio.me
 #EXTINF:-1 tvg-id="radio-103fm" tvg-name="radio-103fm" tvg-logo="radio-103fm" group-title="Radio" radio="true", 103fm Non-Stop Radio
 mms://s3gwm.castup.net/995460001-52.wmv
 
+#EXTINF:-1 tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus" group-title="Radio" radio="true", 106fm Kol Ha'Campus
+http://212.29.254.129:7075
+
 #EXTINF:-1 tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco" group-title="Radio" radio="true", eco99fm
 mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 
