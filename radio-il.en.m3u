@@ -44,12 +44,10 @@ mms://s3ewm.castup.net/990310008-52.wmv
 #EXTINF:-1 tvg-id="radio-95fm-reshset_beit" tvg-name="radio-95fm-reshset_beit" tvg-logo="radio-95fm-reshset_beit" group-title="Radio" radio="true", Reshet Beit
 mms://s4awm.castup.net/990310001-52.wmv
 
-#EXTINF:-1 tvg-id="radio-89.7fm-reshset_gimel" tvg-name="radio-89.7fm-reshset_gimel" tvg-logo="radio-89.7fm-reshset_gimel" group-title="Radio" 
-radio="true", Reshet Gimel
+#EXTINF:-1 tvg-id="radio-89.7fm-reshset_gimel" tvg-name="radio-89.7fm-reshset_gimel" tvg-logo="radio-89.7fm-reshset_gimel" group-title="Radio" radio="true", Reshet Gimel
 mms://s3ewm.castup.net/990310004-52.wmv
 
-#EXTINF:-1 tvg-id="radio-88.8fm-reshset_dalet" tvg-name="radio-88.8fm-reshset_dalet" tvg-logo="radio-88.8fm-reshset_dalet" group-title="רדיו" 
-radio="true", Reshet Dalet - Kol Israel in Arabic
+#EXTINF:-1 tvg-id="radio-88.8fm-reshset_dalet" tvg-name="radio-88.8fm-reshset_dalet" tvg-logo="radio-88.8fm-reshset_dalet" group-title="רדיו" radio="true", Reshet Dalet - Kol Israel in Arabic
 mms://sv5wm.castup.net/990310003-52.wmv
 
 #EXTINF:-1 tvg-id="radio-104.8fm-reshet_moreshet" tvg-name="radio-104.8fm-reshet_moreshet" tvg-logo="radio-104.8fm-reshet_moreshet" group-title="Radio" radio="true", Reshet Moreshet
