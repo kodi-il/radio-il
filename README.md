@@ -5,7 +5,10 @@ This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedc
 
 
 Installation instructions:   
-Click on the "ZIP" button to download as zip, extract somewhere, on IPTVSimple configuration choose the m3u and the logos library.
+Click on the "ZIP" button to download as zip, extract somewhere, on IPTVSimple configuration choose the m3u and the logos library.  
+To keep updated please use the following links to the playlists:   
+* Stations listing in Hebrew @ http://xbmc-il.com/radio-il.m3u  
+* Stations listing in English @ http://xbmc-il.com/radio-il.en.m3u  
 
 
 Issues:  
@@ -13,8 +16,9 @@ Issues:
 2. IPTVSimple v0.1.3+ needed for supporting the radio tag, on older version the stations will appear as tv channels.  
 3. IPTVSimple doesn't support asx/asp so the streams links need to be extracted,  
    if the asx/asp contains a stream playlist and an auto rotation between the stream needed then the transmission may cut off.  
-4. No epg is available currently.  
-5. Online list won't update over https only over http (GitHub links are unusable).  
+4. It seems that IPTVSimple doesn't act nicely with other pvr addons.  
+5. No epg is available currently.  
+6. Online list won't update over https only over http (GitHub links are unusable).  
 
 To Do:  
 1. Updating the logos, larger logos and better quality, logos with transparent background and with white background.  
