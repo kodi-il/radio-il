@@ -35,6 +35,9 @@ mms://s3gwm.castup.net/995460001-52.wmv
 #EXTINF:-1 tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus" group-title="Radio" radio="true", 106fm Kol Ha'Campus
 http://212.29.254.129:7075
 
+#EXTINF:-1 tvg-id="radio-107.5fm-haifa" tvg-name="radio-107.5fm-haifa" tvg-logo="radio-107.5fm-haifa" group-title="Radio" radio="true", 107.5fm Haifa Radio
+rtmp://cdn10.mediacast.co.il/liveradio playpath=1075.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2634390456622808 pageUrl=http://face.mediacast.co.il/1075fm/audio/
+
 #EXTINF:-1 tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco" group-title="Radio" radio="true", eco99fm
 mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 
