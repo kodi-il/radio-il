@@ -11,6 +11,9 @@ rtmp://fms02.mediacast.co.il/106-live playpath=radio90 swfUrl=http://radio.media
 #EXTINF:-1 tvg-id="radio-91fm-lev_hamedina" tvg-name="radio-91fm-lev_hamedina" tvg-logo="radio-91fm-lev_hamedina" group-title="Radio" radio="true", 91fm Lev Ha'medina
 mms://213.8.143.171/91fm
 
+#EXTINF:-1 tvg-id="radio-95.8fm-darom" tvg-name="radio-95.8fm-darom" tvg-logo="radio-95.8fm-darom" group-title="Radio" radio="true", 95.8fm Radio Darom
+mms://212.199.67.135/audio
+
 #EXTINF:-1 tvg-id="radio-96fm-kol_rega" tvg-name="radio-96fm-kol_rega" tvg-logo="radio-96fm-kol_rega" group-title="Radio" radio="true", 96fm Kol Rega Radio
 mms://radio.96fm.co.il/audio
 
