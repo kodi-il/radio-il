@@ -42,10 +42,10 @@ rtmp://cdn10.mediacast.co.il/liveradio playpath=1075.stream swfUrl=http://radio.
 mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 
 #EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz" group-title="Radio" radio="true", Galgalatz
-http://radio.glz.co.il:8000/galgalatz
+http://audio.glgltz.co.il/glgltz-a-zixief/glgltz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz" group-title="Radio" radio="true", Radio: Galatz
-http://radio.glz.co.il:8000/galatz
+http://test.live.net.il/glz-a-zixief/glz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-arutz7" tvg-name="radio-arutz7" tvg-logo="radio-arutz7" group-title="Radio" radio="true", Arutz 7
 mms://media.a7.org/a7live
