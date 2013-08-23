@@ -23,6 +23,9 @@ mms://213.8.143.171/100fm
 #EXTINF:-1 tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem" group-title="רדיו" radio="true", 101fm רדיו ירושלים
 mms://212.150.243.29/101fm
 
+#EXTINF:-1 tvg-id="radio-101.1fm-ashams" tvg-name="radio-101.1fm-ashams" tvg-logo="radio-101.1fm-ashams" group-title="רדיו" radio="true", 101.1fm רדיו א-שמס
+rtmp://live1.ashams.com/live playpath=live swfUrl=http://www.ashams.com/admin-aps/inc/player/player.swf pageUrl=http://www.ashams.com/live.html
+
 #EXTINF:-1 tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat" group-title="רדיו" radio="true", 102fm קול הים האדום אילת
 http://46.117.101.64:8000
 
@@ -42,10 +45,10 @@ rtmp://cdn10.mediacast.co.il/liveradio playpath=1075.stream swfUrl=http://radio.
 mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 
 #EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz" group-title="רדיו" radio="true", גלגל"צ
-http://audio.glgltz.co.il/glgltz-a-zixief/glgltz-a-zixief.m3u8
+http://audio.glgltz.co.il/glgltz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz" group-title="רדיו" radio="true", גלי צה"ל
-http://test.live.net.il/glz-a-zixief/glz-a-zixief.m3u8
+http://audio.glz.co.il/glz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-arutz7" tvg-name="radio-arutz7" tvg-logo="radio-arutz7" group-title="רדיו" radio="true", ערוץ 7
 mms://media.a7.org/a7live
