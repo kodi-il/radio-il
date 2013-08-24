@@ -1,7 +1,7 @@
 Radio-IL: M3U Playlist for Israeli Radio Stations
 ---------------------------------------------------
 
-This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin but will work with any player which support m3u playlist.  
+This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin but will work with any player which support m3u playlist like VLC.  
 Logos for the stations available at https://github.com/xbmc-il/logos-il  
 
 Installation instructions:   
@@ -9,10 +9,11 @@ Installation instructions:
 * On IPTVSimple configuration choose the m3u (if downloaded) or enter the m3u link.  
 * Choose the logos library.  
 
-To keep updated please use the following links to the playlists:   
+To stay updated please use the following links to the playlists:   
 * Stations listing in Hebrew @ http://xbmc-il.com/radio-il.m3u  
 * Stations listing in English @ http://xbmc-il.com/radio-il.en.m3u  
 
+To stay updated when playing in VLC or any other m3u enabled player use the m3u files in the folder vlc.  
 
 Issues:  
 1. Currently a local copy of the stations' logos need to be kept.  
