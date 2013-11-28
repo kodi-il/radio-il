@@ -48,7 +48,7 @@ mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 http://test.live.net.il/glgltz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz" group-title="Radio-IL" radio="true", גלי צה"ל
-http://audio.glz.co.il/glz-a-zixief.m3u8
+http://test.live.net.il/glz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-arutz7" tvg-name="radio-arutz7" tvg-logo="radio-arutz7" group-title="Radio-IL" radio="true", ערוץ 7
 mms://media.a7.org/a7live
