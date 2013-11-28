@@ -45,7 +45,7 @@ rtmp://cdn10.mediacast.co.il/liveradio playpath=1075.stream swfUrl=http://radio.
 mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 
 #EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz" group-title="Radio-IL" radio="true", גלגל"צ
-http://audio.glgltz.co.il/glgltz-a-zixief.m3u8
+http://test.live.net.il/glz-a-zixief.m3u8
 
 #EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz" group-title="Radio-IL" radio="true", גלי צה"ל
 http://audio.glz.co.il/glz-a-zixief.m3u8
