@@ -1,7 +1,7 @@
 Radio-IL: M3U Playlist for Israeli Radio Stations
 ---------------------------------------------------
 
-This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin but will work with any player which support m3u playlist like VLC.  
+This playlist is intended to be used with IPTVSimple PVR-addon for XBMC by afedchin but will work with any player that support m3u playlist (e.g. VLC).  
 Logos for the stations available at https://github.com/xbmc-il/logos-il  
 
 Installation instructions:   
@@ -15,14 +15,13 @@ To stay updated please use the following links to the playlists:
 
 To stay updated when playing in VLC or any other m3u enabled player use the m3u files in the folder vlc.  
 
-Issues:  
-1. Currently a local copy of the stations' logos need to be kept.  
-2. IPTVSimple v0.1.3+ needed for supporting the radio tag, on older version the stations will appear as tv channels.  
-3. IPTVSimple doesn't support asx/asp so the streams links need to be extracted,  
-   if the asx/asp contains a stream playlist and an auto rotation between the stream needed then the transmission may cut off.  
-4. It seems that IPTVSimple doesn't act nicely with other pvr addons.  
-5. No epg is available currently.  
-6. Online list won't update over GitHub and Dropbox links.  
+Limitatios:  
+* When more than one pvr clients are enabled, XBMC will not show channels from a client that its initialization is cosiderably longer due to a bug in XBMC, for exmaple: IPTVSimple and Tvheadend, see: http://trac.xbmc.org/ticket/14498.  
+* A local copy of the stations' logos need to be kept.  
+* IPTVSimple doesn't support asx/asp so the streams links were extracted,  
+   if the asx/asp contains a stream playlist and auto rotate between the stream then the transmission may cut off.  
+* No epg is available currently.  
+* IPTVSimple won't update m3u playlist over GitHub and Dropbox links.  
 
 
 I'm a bit new to git and vcs but I'm always happy to get PR's,  
