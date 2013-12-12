@@ -15,7 +15,7 @@ To stay updated please use the following links to the playlists:
 
 To stay updated when playing in VLC or any other m3u enabled player use the m3u files in the folder vlc.  
 
-Limitatios:  
+Limitations:  
 * When more than one pvr clients are enabled, XBMC will not show channels from a client that its initialization is cosiderably longer due to a bug in XBMC, for exmaple: IPTVSimple and Tvheadend, see: http://trac.xbmc.org/ticket/14498.  
 * A local copy of the stations' logos need to be kept.  
 * IPTVSimple doesn't support asx/asp so the streams links were extracted,  
