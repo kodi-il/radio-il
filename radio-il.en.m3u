@@ -2,71 +2,71 @@
 # live updating link to the m3u @ http://xbmc-il.com/radio-il.en.m3u
 # if one of more of these are outdated please report @ https://github.com/xbmc-il/radio-il
 
-#EXTINF:-1 tvg-id="radio-88fm" tvg-name="radio-88fm" tvg-logo="radio-88fm" group-title="Radio-IL" radio="true", 88fm
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-88fm" tvg-name="radio-88fm" tvg-logo="radio-88fm.png", 88fm
 mms://s4bwm.castup.net/990310006-52.wmv?ct=IL&rg=IL&aid=31&ts=0
 
-#EXTINF:-1 tvg-id="radio-90fm-emtzah_haderech" tvg-name="radio-90fm-emtzah_haderech" tvg-logo="radio-90fm-emtzah_haderech" group-title="Radio-IL" radio="true", 90fm Ninety Radio
+#EXTINF:-1 tvg-id="radio-90fm-emtzah_haderech" tvg-name="radio-90fm-emtzah_haderech" tvg-logo="radio-90fm-emtzah_haderech.png", 90fm Ninety Radio
 rtmp://fms02.mediacast.co.il/106-live playpath=radio90 swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer.rtmp-3.2.3.swf
 
-#EXTINF:-1 tvg-id="radio-91fm-lev_hamedina" tvg-name="radio-91fm-lev_hamedina" tvg-logo="radio-91fm-lev_hamedina" group-title="Radio-IL" radio="true", 91fm Lev Ha'medina
+#EXTINF:-1 tvg-id="radio-91fm-lev_hamedina" tvg-name="radio-91fm-lev_hamedina" tvg-logo="radio-91fm-lev_hamedina.png", 91fm Lev Ha'medina
 mms://213.8.143.171/91fm
 
-#EXTINF:-1 tvg-id="radio-95.8fm-darom" tvg-name="radio-95.8fm-darom" tvg-logo="radio-95.8fm-darom" group-title="Radio-IL" radio="true", 95.8fm Radio Darom
+#EXTINF:-1 tvg-id="radio-95.8fm-darom" tvg-name="radio-95.8fm-darom" tvg-logo="radio-95.8fm-darom.png", 95.8fm Radio Darom
 mms://212.199.67.135/audio
 
-#EXTINF:-1 tvg-id="radio-96fm-kol_rega" tvg-name="radio-96fm-kol_rega" tvg-logo="radio-96fm-kol_rega" group-title="Radio-IL" radio="true", 96fm Kol Rega Radio
+#EXTINF:-1 tvg-id="radio-96fm-kol_rega" tvg-name="radio-96fm-kol_rega" tvg-logo="radio-96fm-kol_rega.png", 96fm Kol Rega Radio
 mms://radio.96fm.co.il/audio
 
-#EXTINF:-1 tvg-id="radio-100fm-radius" tvg-name="radio-100fm-radius" tvg-logo="radio-100fm-radius" group-title="Radio-IL" radio="true", 100fm Radius
+#EXTINF:-1 tvg-id="radio-100fm-radius" tvg-name="radio-100fm-radius" tvg-logo="radio-100fm-radius.png", 100fm Radius
 mms://213.8.143.171/100fm
 
-#EXTINF:-1 tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem" group-title="Radio-IL" radio="true", 101fm Jerusalem Radio
+#EXTINF:-1 tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem.png", 101fm Jerusalem Radio
 mms://212.150.243.29/101fm
 
-#EXTINF:-1 tvg-id="radio-101.1fm-ashams" tvg-name="radio-101.1fm-ashams" tvg-logo="radio-101.1fm-ashams" group-title="Radio-IL" radio="true", 101.1fm Ashams Radio
+#EXTINF:-1 tvg-id="radio-101.1fm-ashams" tvg-name="radio-101.1fm-ashams" tvg-logo="radio-101.1fm-ashams.png", 101.1fm Ashams Radio
 rtmp://live1.ashams.com/live playpath=live swfUrl=http://www.ashams.com/admin-aps/inc/player/player.swf pageUrl=http://www.ashams.com/live.html
 
-#EXTINF:-1 tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat" group-title="Radio-IL" radio="true", 102fm Kol Ha'yam Ha'adom Eilat
+#EXTINF:-1 tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat.png", 102fm Kol Ha'yam Ha'adom Eilat
 http://46.117.101.64:8000
 
-#EXTINF:-1 tvg-id="radio-102fm-tel_aviv" tvg-name="radio-102fm-tel_aviv" tvg-logo="radio-102fm-tel_aviv" group-title="Radio-IL" radio="true", 102fm Tel-Aviv Radio
+#EXTINF:-1 tvg-id="radio-102fm-tel_aviv" tvg-name="radio-102fm-tel_aviv" tvg-logo="radio-102fm-tel_aviv.png", 102fm Tel-Aviv Radio
 rtmp://fms3.mediacast.co.il/liveradio playpath=102.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2779204686896638 pageUrl=http://face.mediacast.co.il/102fm/audio/
 
-#EXTINF:-1 tvg-id="radio-103fm" tvg-name="radio-103fm" tvg-logo="radio-103fm" group-title="Radio-IL" radio="true", 103fm Non-Stop Radio
+#EXTINF:-1 tvg-id="radio-103fm" tvg-name="radio-103fm" tvg-logo="radio-103fm.png", 103fm Non-Stop Radio
 mms://s3gwm.castup.net/995460001-52.wmv
 
-#EXTINF:-1 tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus" group-title="Radio-IL" radio="true", 106fm Kol Ha'Campus
+#EXTINF:-1 tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus.png", 106fm Kol Ha'Campus
 http://212.29.254.129:7075
 
-#EXTINF:-1 tvg-id="radio-107.5fm-haifa" tvg-name="radio-107.5fm-haifa" tvg-logo="radio-107.5fm-haifa" group-title="Radio-IL" radio="true", 107.5fm Haifa Radio
+#EXTINF:-1 tvg-id="radio-107.5fm-haifa" tvg-name="radio-107.5fm-haifa" tvg-logo="radio-107.5fm-haifa.png", 107.5fm Haifa Radio
 rtmp://cdn10.mediacast.co.il/liveradio playpath=1075.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2634390456622808 pageUrl=http://face.mediacast.co.il/1075fm/audio/
 
-#EXTINF:-1 tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco" group-title="Radio-IL" radio="true", eco99fm
+#EXTINF:-1 tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco.png", eco99fm
 mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
 
-#EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz" group-title="Radio-IL" radio="true", Galgalatz
+#EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz.png", Galgalatz
 http://test.live.net.il/glgltz-a-zixief.m3u8
 
-#EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz" group-title="Radio-IL" radio="true", Radio: Galatz
+#EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz.png", Radio: Galatz
 http://test.live.net.il/glz-a-zixief.m3u8
 
-#EXTINF:-1 tvg-id="radio-arutz7" tvg-name="radio-arutz7" tvg-logo="radio-arutz7" group-title="Radio-IL" radio="true", Arutz 7
+#EXTINF:-1 tvg-id="radio-arutz7" tvg-name="radio-arutz7" tvg-logo="radio-arutz7.png", Arutz 7
 mms://media.a7.org/a7live
 
-#EXTINF:-1 tvg-id="radio-97.2fm-kol_hamuzika" tvg-name="radio-97.2fm-kol_hamuzika" tvg-logo="radio-97.2fm-kol_hamuzika" group-title="Radio-IL" radio="true", Kol Hamuzika
+#EXTINF:-1 tvg-id="radio-97.2fm-kol_hamuzika" tvg-name="radio-97.2fm-kol_hamuzika" tvg-logo="radio-97.2fm-kol_hamuzika.png", Kol Hamuzika
 mms://s3ewm.castup.net/990310008-52.wmv
 
-#EXTINF:-1 tvg-id="radio-95fm-reshset_beit" tvg-name="radio-95fm-reshset_beit" tvg-logo="radio-95fm-reshset_beit" group-title="Radio-IL" radio="true", Reshet Beit
+#EXTINF:-1 tvg-id="radio-95fm-reshset_beit" tvg-name="radio-95fm-reshset_beit" tvg-logo="radio-95fm-reshset_beit.png", Reshet Beit
 mms://s4awm.castup.net/990310001-52.wmv
 
-#EXTINF:-1 tvg-id="radio-89.7fm-reshset_gimel" tvg-name="radio-89.7fm-reshset_gimel" tvg-logo="radio-89.7fm-reshset_gimel" group-title="Radio-IL" radio="true", Reshet Gimel
+#EXTINF:-1 tvg-id="radio-89.7fm-reshset_gimel" tvg-name="radio-89.7fm-reshset_gimel" tvg-logo="radio-89.7fm-reshset_gimel.png", Reshet Gimel
 mms://s3ewm.castup.net/990310004-52.wmv
 
-#EXTINF:-1 tvg-id="radio-88.8fm-reshset_dalet" tvg-name="radio-88.8fm-reshset_dalet" tvg-logo="radio-88.8fm-reshset_dalet" group-title="Radio-IL" radio="true", Reshet Dalet - Kol Israel in Arabic
+#EXTINF:-1 tvg-id="radio-88.8fm-reshset_dalet" tvg-name="radio-88.8fm-reshset_dalet" tvg-logo="radio-88.8fm-reshset_dalet.png", Reshet Dalet - Kol Israel in Arabic
 mms://sv5wm.castup.net/990310003-52.wmv
 
-#EXTINF:-1 tvg-id="radio-104.8fm-reshet_moreshet" tvg-name="radio-104.8fm-reshet_moreshet" tvg-logo="radio-104.8fm-reshet_moreshet" group-title="Radio-IL" radio="true", Reshet Moreshet
+#EXTINF:-1 tvg-id="radio-104.8fm-reshet_moreshet" tvg-name="radio-104.8fm-reshet_moreshet" tvg-logo="radio-104.8fm-reshet_moreshet.png", Reshet Moreshet
 mms://sv5wm.castup.net/990310002-52.wmv
 
-#EXTINF:-1 tvg-id="radio-101.2fm-reka" tvg-name="radio-101.2fm-reka" tvg-logo="radio-101.2fm-reka" group-title="Radio-IL" radio="true", Reka - Kol Israel in Foreign Languages
+#EXTINF:-1 tvg-id="radio-101.2fm-reka" tvg-name="radio-101.2fm-reka" tvg-logo="radio-101.2fm-reka.png", Reka - Kol Israel in Foreign Languages
 mms://s4awm.castup.net/990310005-52.wmv
