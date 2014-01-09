@@ -20,12 +20,5 @@ To stay updated when playing in VLC or any other m3u enabled player use the m3u 
 
 Limitations:  
 * When more than one pvr clients are enabled, XBMC will not show channels from a client that its initialization is cosiderably longer due to a bug in XBMC, for exmaple: IPTVSimple and Tvheadend, see: http://trac.xbmc.org/ticket/14498.  
-* IPTVSimple doesn't support asx/asp so the streams links were extracted,  
-   if the asx/asp contains a stream playlist and auto rotate between the stream then the transmission may cut off.  
-* No epg is available currently.  
-
-
-I'm a bit new to git and vcs but I'm always happy to get PR's,  
-logos and new stations' stream url are welcome.  
 
 
