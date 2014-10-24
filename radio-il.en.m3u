@@ -9,16 +9,16 @@ mms://s4bwm.castup.net/990310006-52.wmv?ct=IL&rg=IL&aid=31&ts=0
 rtmp://fms02.mediacast.co.il/106-live playpath=radio90 swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer.rtmp-3.2.3.swf
 
 #EXTINF:-1 tvg-id="radio-91fm-lev_hamedina" tvg-name="radio-91fm-lev_hamedina" tvg-logo="radio-91fm-lev_hamedina.png", 91fm Lev Ha'medina
-mms://213.8.143.171/91fm
+http://213.8.143.168/91fmAudio
 
 #EXTINF:-1 tvg-id="radio-95.8fm-darom" tvg-name="radio-95.8fm-darom" tvg-logo="radio-95.8fm-darom.png", 95.8fm Radio Darom
-mms://212.199.67.135/audio
+http://live.radiodarom.co.il:1935/livestream/darom2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="radio-96fm-kol_rega" tvg-name="radio-96fm-kol_rega" tvg-logo="radio-96fm-kol_rega.png", 96fm Kol Rega Radio
-mms://radio.96fm.co.il/audio
+rtmp://radio.96fm.co.il/kolrega playpath=audio swfUrl=http://live1.co.il/kolrega/player/players/flowplayer.rtmp-3.2.3.swf
 
 #EXTINF:-1 tvg-id="radio-100fm-radius" tvg-name="radio-100fm-radius" tvg-logo="radio-100fm-radius.png", 100fm Radius
-mms://213.8.143.171/100fm
+http://213.8.143.168:80/100fmAudio
 
 #EXTINF:-1 tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem.png", 101fm Jerusalem Radio
 mms://212.150.243.29/101fm
@@ -26,23 +26,29 @@ mms://212.150.243.29/101fm
 #EXTINF:-1 tvg-id="radio-101.1fm-ashams" tvg-name="radio-101.1fm-ashams" tvg-logo="radio-101.1fm-ashams.png", 101.1fm Ashams Radio
 rtmp://live1.ashams.com/live playpath=live swfUrl=http://www.ashams.com/admin-aps/inc/player/player.swf pageUrl=http://www.ashams.com/live.html
 
+#EXTINF:-1 tvg-id="radio-101.5fm-darom" tvg-name="radio-101.5fm-darom" tvg-logo="radio-101.5fm-darom.png", 101.5fm Radio Darom
+rtmp://live.radiodarom.co.il:1935/liveashkeloon/esklaud1
+
 #EXTINF:-1 tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat.png", 102fm Kol Ha'yam Ha'adom Eilat
-http://46.117.101.64:8000
+rtmp://IL29.cast-tv.com:1935/23744_LIVE_Live_102FM/23744_LIVE_Live_102FM
 
 #EXTINF:-1 tvg-id="radio-102fm-tel_aviv" tvg-name="radio-102fm-tel_aviv" tvg-logo="radio-102fm-tel_aviv.png", 102fm Tel-Aviv Radio
 rtmp://fms3.mediacast.co.il/liveradio playpath=102.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2779204686896638 pageUrl=http://face.mediacast.co.il/102fm/audio/
 
 #EXTINF:-1 tvg-id="radio-103fm" tvg-name="radio-103fm" tvg-logo="radio-103fm.png", 103fm Non-Stop Radio
-mms://s3gwm.castup.net/995460001-52.wmv
+http://62.90.90.37/103fm_LiveRadioRepeat/_definst_/smil:LiveRadio.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus.png", 106fm Kol Ha'Campus
 http://212.29.254.129:7075
+
+#EXTINF:-1 tvg-id="radio-106.5fm-galey_israel" tvg-name="radio-106.5fm-galey_israel" tvg-logo="radio-106.5fm-galey_israel.png", 106.6fm Galey Israel
+http://live.radiodarom.co.il:1935/livegaleyisrael/galiaud1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="radio-107.5fm-haifa" tvg-name="radio-107.5fm-haifa" tvg-logo="radio-107.5fm-haifa.png", 107.5fm Haifa Radio
 rtmp://cdn10.mediacast.co.il/liveradio playpath=1075.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2634390456622808 pageUrl=http://face.mediacast.co.il/1075fm/audio/
 
 #EXTINF:-1 tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco.png", eco99fm
-mmsh://194.90.203.111:8000/99fm?MSWMExt=.asf
+http://82.80.192.2/103fm_Live99Repeat/_definst_/smil:Live99.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz.png", Galgalatz
 http://test.live.net.il/glgltz-a-zixief.m3u8
