@@ -1,5 +1,6 @@
 Radio-IL: M3U Playlist for Israeli Radio Stations
 ---------------------------------------------------
+**With the upcoming Kodi 14.0 release this project will transform into a unified tv & radio playlist and move to [live-il](https://github.com/kodi-il/live-il).**
 
 This playlist is intended to be used with XBMC's IPTVSimple PVR addon, but will also work with any player which support m3u playlists (e.g. VLC).  
 Playlists with stations listing in Hebrew and Latin cases are provided.  
